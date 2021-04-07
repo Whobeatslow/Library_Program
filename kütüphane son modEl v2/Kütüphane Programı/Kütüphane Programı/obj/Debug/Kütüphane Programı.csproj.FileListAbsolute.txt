@@ -1,0 +1,297 @@
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojAssemblyReference.cache
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.cache
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.CoreCompileInputs.cache
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+E:\kerim\kerim\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\pc1\Desktop\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+D:\kerim\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\pc1\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\Cisco\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\User1\Desktop\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojAssemblyReference.cache
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.cache
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\tamam\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojAssemblyReference.cache
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.cache
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\ITOPYA\Desktop\son\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojAssemblyReference.cache
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.cache
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v1.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\pc1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojAssemblyReference.cache
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.cache
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\ITOPYA\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v2.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\Kütüphane Programı v2.7 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\User1\Desktop\Kütüphane Programı v2.7 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v2.7 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+C:\Users\User1\Desktop\Kütüphane Programı v3.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\Kütüphane Programı v3.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+C:\Users\User1\Desktop\Kütüphane Programı v3.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+C:\Users\User1\Desktop\Kütüphane Programı v3.5 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+D:\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+D:\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+D:\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe.config
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.exe
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\bin\Debug\Kütüphane Programı.pdb
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csprojAssemblyReference.cache
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Form1.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.giris.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.güncellesil.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapal.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapekle.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.kitapver.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.ogrenciekle.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.Properties.Resources.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane_Programı.topluekle.resources
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.GenerateResource.cache
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.csproj.CoreCompileInputs.cache
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.exe
+D:\Masaüstüm\FLANŞBELENK\Kütüphane Programı v4.0 Abdülkerim Açar\kütüphane son modEl v2\Kütüphane Programı\Kütüphane Programı\obj\Debug\Kütüphane Programı.pdb

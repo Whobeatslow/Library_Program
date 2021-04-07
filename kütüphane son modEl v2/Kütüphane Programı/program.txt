@@ -1,0 +1,4 @@
+emanet kitap öğrenci yokken açılmasın
+kitap iade de açılmasın
+kitap yokken emanet edilemesin
+
